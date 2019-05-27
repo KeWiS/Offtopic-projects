@@ -1,0 +1,3 @@
+﻿  GraWojna.cpp
+c:\users\user\desktop\michał s\programowanie\c++\ppsio - szkoła\grawojna\grawojna\grawojna.cpp(15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  GraWojna.vcxproj -> C:\Users\User\Desktop\Michał S\Programowanie\C++\PPSIO - szkoła\GraWojna\Debug\GraWojna.exe
