@@ -1,0 +1,13 @@
+W pliku liczby.txt znajduje siê 1000 liczb z zakresu od 1 do 30 000, ka¿da w osobnym wierszu. Napisz program(y), który(e) da(dz¹) odpowiedzi do poni¿szych zadañ. Ka¿d¹ odpowiedŸ zapisz w pliku wyniki5.txt i poprzedŸ j¹ numerem oznaczaj¹cym zadanie.
+
+Zadanie 5.1.
+
+Podaj najwiêksz¹ liczbê parzyst¹ zapisan¹ w pliku liczby.txt.
+
+Zadanie 5.2.
+
+Liczba palindromiczna to taka liczba, która czytana od lewej i od prawej strony ma tak¹ sam¹ wartoœæ. Przyk³adowo: liczby 23432, 5665 oraz 7 s¹ palindromiczne, a 3434 i 1234 nie s¹. Podaj wszystkie liczby palindromiczne z pliku liczby.txt, w kolejnoœci, w jakiej wystêpuj¹ w tym pliku.
+
+Zadanie 5.3.
+
+Dla ka¿dej liczby z pliku liczby.txt oblicz sumê jej cyfr. Podaj wszystkie liczby, których suma cyfr jest wiêksza od 30, w kolejnoœci, w jakiej wystêpuj¹ w tym pliku. Ponadto podaj sumê wszystkich cyfr u¿ytych do zapisu wszystkich liczb z pliku liczby.txt.
